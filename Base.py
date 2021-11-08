@@ -54,3 +54,6 @@ def adiciona_na_mesa(x,y):
         y.append(x1)
     return y
 
+print('Bem vindo ao jogo')
+input('Quantos jogadores serão? (2,3,4)')
+
